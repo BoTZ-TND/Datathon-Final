@@ -1,5 +1,3 @@
-[core]
-    remote = remote-str
 ['remote "remote-str"']
     url = gdrive://1Mg23V-45MzAY6tVJwVguHH5Dvvz5qfeA
 ['remote "origin"']
